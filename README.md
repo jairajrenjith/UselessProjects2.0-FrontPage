@@ -12,7 +12,7 @@
 - Team Lead: Jairaj R - College of Engineering Trivandrum
 
 ### Project Description
-Pill Vector blends two absurdly precise worlds: AirTaste decodes the “flavor” of any date with blockchain hashes, while VoidSpeak lets you converse with a void that answers in random characters. Red pill or blue pill — choose your paradox.
+Pill Vector blends two absurdly precise worlds: AirTaste decodes the “flavor” of air of any date with blockchain hashes, while VoidSpeak lets you converse with a void that answers in random characters. Red pill or blue pill — choose your paradox.
 
 ### The Problem (that doesn't exist)
 AirTaste — Nobody was losing sleep over what flavor the air “tastes like” on a random date, but clearly, humanity needed a way to know (and even score its accuracy).
@@ -79,6 +79,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
