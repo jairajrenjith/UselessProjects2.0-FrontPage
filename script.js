@@ -1,8 +1,6 @@
-// Set your future links here later
 document.getElementById("link1").href = "https://voidspeak.vercel.app/";
 document.getElementById("link2").href = "https://airtaste.vercel.app/";
 
-// Star + shape animation background
 const canvas = document.getElementById("bg");
 const ctx = canvas.getContext("2d");
 
@@ -33,11 +31,9 @@ const shapes = Array.from({ length: 8 }, () => ({
 function animate() {
   ctx.clearRect(0, 0, w, h);
 
-  // transparent to allow CSS gradient to show
   ctx.fillStyle = "transparent";
   ctx.fillRect(0, 0, w, h);
 
-  // stars
   ctx.fillStyle = "#0ff";
   stars.forEach(star => {
     ctx.beginPath();
@@ -47,7 +43,6 @@ function animate() {
     if (star.y > h) star.y = 0;
   });
 
-  // floating shapes
   shapes.forEach(shape => {
     ctx.beginPath();
     ctx.fillStyle = shape.color;
